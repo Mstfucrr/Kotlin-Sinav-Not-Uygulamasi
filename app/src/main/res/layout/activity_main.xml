@@ -43,6 +43,7 @@
         android:ems="10"
         android:hint="2.Sınav notunuzu giriniz"
         android:inputType="numberDecimal"
+        android:textColorHint="#757575"
         app:layout_constraintEnd_toEndOf="@+id/editTextNumberDecimal"
         app:layout_constraintStart_toStartOf="@+id/editTextNumberDecimal"
         app:layout_constraintTop_toBottomOf="@+id/editTextNumberDecimal" />
